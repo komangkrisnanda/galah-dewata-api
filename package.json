@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "moment": "^2.29.4",
+    "node-telegram-bot-api": "^0.63.0",
+    "request": "^2.88.2"
+  }
+}
